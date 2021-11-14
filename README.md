@@ -1,2 +1,2 @@
 # potential-broccoli
-built rock paper scissor game so.....here
+here are things i did as a beginner and things that fascinated me at first.
